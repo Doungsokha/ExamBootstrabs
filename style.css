@@ -1,0 +1,23 @@
+https://fonts.google.com/specimen/Poppins?query=pop#standard-styles:~:text=%40import%20url(%27https%3A//fonts.googleapis.com/css2%3Ffamily%3DPoppins%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900%26display%3Dswap%27)%3B%0A%3C/style%3E
+
+iinfor-header h1 {
+    font-size: 50px;
+    https://fonts.google.com/specimen/Poppins?query=pop#type-tester:~:text=font%2Dfamily%3A%20%27Poppins%27%2C%20sans%2Dserif%3B
+    font-Weight: 700;
+
+}
+iinfor-header h4 {
+    font-size: 28px;
+    font-Weight: 700;
+
+}
+infor-body {
+    line-height: 0.7;
+}
+.image img{
+    width: 480px;
+    height: 480px;
+}
+#infor img{
+border-radius: 50%;
+}
